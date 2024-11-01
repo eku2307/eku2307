@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ekarna
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning python
-- 📫 How to reach me 
+- 📫 How to reach me: www.linkedin.com/in/ekarnadas
 - 😄 Pronouns she/her
 - ⚡ Fun fact: Klutz
 
