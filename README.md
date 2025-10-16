@@ -32,10 +32,10 @@
 
 ### 💬 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/ekarna-das" target="_blank">
+  <a href="https://www.linkedin.com/in/ekarnadas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/ekarna" target="_blank">
+  <a href="https://github.com/eku2307" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
