@@ -1,11 +1,16 @@
 <!-- 💜 Ekarna’s GitHub Profile README -->
 
-<!-- Header -->
-<h1 align="center">💜 Hi, I'm <b>Ekarna</b> 👋</h1>
-<h3 align="center">Frontend Developer • Designer • AIML Student</h3>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=40&pause=1000&color=FFFFFF&center=true&width=700&height=100&lines=%F0%9F%92%9C+Hi,+I'm+Ekarna+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&color=BB86FC&center=true&vCenter=true&width=500&lines=Designing+beautiful+web+experiences!;Coding+my+ideas+into+reality!;Learning+something+new+everyday!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&pause=500&color=D8BFD8&center=true&width=600&lines=Frontend+Developer+%E2%80%A2+Designer+%E2%80%A2+AIML+Student" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ekarna/ekarna/blob/main/gradient-header.gif" alt="Glowing Purple Header" />
 </p>
 
 ---
@@ -54,4 +59,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 </p>
-
