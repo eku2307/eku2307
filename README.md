@@ -1,88 +1,57 @@
-<h1 align="center">Hi, I'm Ekarna 👋💜</h1>
+<!-- 💜 Ekarna’s GitHub Profile README -->
+
+<!-- Header -->
+<h1 align="center">💜 Hi, I'm <b>Ekarna</b> 👋</h1>
+<h3 align="center">Frontend Developer • Designer • AIML Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=440&lines=Designer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%92%BB;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&color=BB86FC&center=true&vCenter=true&width=500&lines=Designing+beautiful+web+experiences!;Coding+my+ideas+into+reality!;Learning+something+new+everyday!" alt="Typing SVG" />
 </p>
 
+---
+
+### 🧠 Tech Stack  
 <p align="center">
-  <strong>she/her</strong> • 📍 India • 🎨 Designer & Developer
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,figma,ps" />
 </p>
 
-<br>
+---
 
-## 💻 Tech Stack
+### 🌸 What I’m Up To
+- 🚀 Building interactive and responsive web projects  
+- 💡 Learning DSA with Striver’s roadmap  
+- 🎨 Exploring UI/UX and pastel design systems  
+- 🧩 Preparing for AIML and GATE  
 
+---
+
+### 💬 Connect With Me  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,photoshop&theme=dark" alt="Skills" />
-</p>
-
-<br>
-
-## 🌟 About Me
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  
-🔭 **Currently Working On**
-
-Building beautiful, responsive<br>web interfaces
-
-</td>
-<td align="center" width="50%">
-  
-🌱 **Currently Learning**
-
-Diving deep into<br>Python programming
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  
-💬 **Ask Me About**
-
-Frontend development<br>JavaScript, HTML/CSS
-
-</td>
-<td align="center" width="50%">
-  
-⚡ **Fun Fact**
-
-I'm a pragmatist who<br>loves clean code!
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eku2307&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c77dff&icon_color=e0aaff&text_color=c9d1d9" alt="Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=eku2307&theme=radical&hide_border=true&background=0d1117&ring=c77dff&fire=e0aaff&currStreakLabel=c77dff" alt="Streak" />
-</p>
-
-<br>
-
-## 💜 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ekarnadas">
-    <img src="https://img.shields.io/badge/LinkedIn-C77DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ekarna-das" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/eku2307">
-    <img src="https://img.shields.io/badge/GitHub-E0AAFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/ekarna" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<br>
+---
 
+### 🌷 Fun Little Things  
+🪶 I believe design isn’t decoration — it’s storytelling.  
+🌙 I find calm in clean code and cozy UI layouts.  
+
+---
+
+### ⚡ GitHub Stats  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=c77dff&height=100&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ekarna&show_icons=true&theme=midnight-purple&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekarna&layout=compact&theme=midnight-purple&hide_border=true" height="150" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eku2307&color=c77dff&style=flat-square" alt="Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 </p>
+
