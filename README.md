@@ -26,7 +26,7 @@
 - 🚀 Building interactive and responsive web projects  
 - 💡 Learning DSA with Striver’s roadmap  
 - 🎨 Exploring UI/UX and pastel design systems  
-- 🧩 Preparing for AIML and GATE  
+- 🧩 Preparing for AIML 
 
 ---
 
