@@ -54,7 +54,9 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eku2307&show_icons=true&theme=dark&bg_color=00000000&title_color=b795ff&icon_color=6a00f4&text_color=e9dbff&border_color=311b92)
 
 ---
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eku2307&theme=tokyo-night&bg_color=e9dbff&color=311b92&line=6a00f4&point=b795ff&area=true&area_color=b795ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 </p>
