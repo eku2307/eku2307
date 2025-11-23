@@ -48,6 +48,12 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=USERNAME&theme=dark&background=135,6a00f4,b795ff&ring=b795ff&fire=ff7ae5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=e9dbff&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
+
+---
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&bg_color=00000000&title_color=b795ff&icon_color=6a00f4&text_color=e9dbff&border_color=311b92)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
 </p>
