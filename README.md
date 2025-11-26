@@ -27,7 +27,7 @@
 - 💡 Learning DSA with Striver’s roadmap  
 - 🎨 Exploring UI/UX and pastel design systems  
 - 🧩 Preparing for AIML 
-
+Always open to collaborating on exciting projects. Let’s build something great together!
 ---
 
 ### 💬 Connect With Me  
