@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💜 Hi, I'm Ekarna
 
 <div align="center">
@@ -12,9 +14,9 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a0033&title_color=d946ef&icon_color=d946ef&text_color=e9d5ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eku2307&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a0033&title_color=d946ef&icon_color=d946ef&text_color=e9d5ff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=1a0033&ring=d946ef&fire=d946ef&currStreakLabel=e9d5ff&sideLabels=e9d5ff&currStreakNum=d946ef&sideNums=d946ef)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eku2307&theme=midnight-purple&hide_border=true&background=1a0033&ring=d946ef&fire=d946ef&currStreakLabel=e9d5ff&sideLabels=e9d5ff&currStreakNum=d946ef&sideNums=d946ef)
 
 </div>
 
@@ -60,16 +62,12 @@
 
 ---
 
-## 🎯 What I'm Up To
+##🌸 What I’m Up To
+- 🚀 Building interactive and responsive web projects  
+- 💡 Learning DSA with Striver’s roadmap  
+- 🎨 Exploring UI/UX and pastel design systems  
+- 🧩 Preparing for AIML
 
-```javascript
-const ekarna = {
-    education: "B.Tech (CSE) - AI/ML Student",
-    currentlyLearning: ["Advanced React", "UI/UX Design", "Machine Learning"],
-    interests: ["Web Development", "Graphic Design", "AI/ML"],
-    funFact: "I love combining creativity with code! 🎨💻"
-};
-```
 
 ---
 
@@ -77,9 +75,9 @@ const ekarna = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-xi-amber-65.vercel.app/index.html))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekarnadas/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekarnadas2307@gmail.com)
 
 </div>
 
@@ -89,6 +87,6 @@ const ekarna = {
   
 ### 💜 Thanks for visiting! Let's build something great together.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=9333ea&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=eku2307color=9333ea&style=for-the-badge)
 
 </div>
