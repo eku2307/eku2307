@@ -1,92 +1,63 @@
-<div align="center">
+<!-- 💜 Ekarna’s GitHub Profile README -->
 
-# 💜 Hi, I'm Ekarna
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=40&pause=1000&color=FFFFFF&center=true&width=700&height=100&lines=%F0%9F%92%9C+Hi,+I'm+Ekarna+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  
-### Frontend Developer | Graphic Designer | AI/ML Student
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&pause=500&color=D8BFD8&center=true&width=600&lines=Frontend+Developer+%E2%80%A2+Designer+%E2%80%A2+AIML+Student" alt="Typing SVG" />
+</p>
 
-</div>
-
----
-
-## 📊 GitHub Contribution Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eku2307&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a0033&title_color=d946ef&icon_color=d946ef&text_color=e9d5ff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eku2307&theme=midnight-purple&hide_border=true&background=1a0033&ring=d946ef&fire=d946ef&currStreakLabel=e9d5ff&sideLabels=e9d5ff&currStreakNum=d946ef&sideNums=d946ef)
-
-</div>
+<p align="center">
+  <img src="https://github.com/ekarna/ekarna/blob/main/gradient-header.gif" alt="Glowing Purple Header" />
+</p>
 
 ---
 
-## 🎨 Current Streak
-
-<div align="center">
-
-![Contributions](https://img.shields.io/badge/Total_Contributions-997-9333ea?style=for-the-badge&logo=github&logoColor=white)
-![Current Streak](https://img.shields.io/badge/Current_Streak-0-9333ea?style=for-the-badge&logo=githubactions&logoColor=white)
-![Longest Streak](https://img.shields.io/badge/Longest_Streak-28-9333ea?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+### 🧠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,figma,ps" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frontend & Design
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-##🌸 What I’m Up To
+### 🌸 What I’m Up To
 - 🚀 Building interactive and responsive web projects  
 - 💡 Learning DSA with Striver’s roadmap  
 - 🎨 Exploring UI/UX and pastel design systems  
 - 🧩 Preparing for AIML
-
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-xi-amber-65.vercel.app/index.html))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekarnadas/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekarnadas2307@gmail.com)
-
-</div>
-
----
-
-<div align="center">
   
-### 💜 Thanks for visiting! Let's build something great together.
+Always open to collaborating on exciting projects. Let’s build something great together!
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=eku2307color=9333ea&style=for-the-badge)
+### 💬 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ekarnadas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/eku2307" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-</div>
+---
+
+### 🌷 Fun Little Things  
+🪶 I believe design isn’t decoration — it’s storytelling.  
+🌙 I find calm in clean code and cozy UI layouts.  
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eku2307&theme=dark&background=135,6a00f4,b795ff&ring=b795ff&fire=ff7ae5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=e9dbff&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
+
+---
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eku2307&show_icons=true&theme=dark&bg_color=00000000&title_color=b795ff&icon_color=6a00f4&text_color=e9dbff&border_color=311b92)
+
+---
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eku2307&theme=tokyo-night&bg_color=e9dbff&color=311b92&line=6a00f4&point=b795ff&area=true&area_color=b795ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
+</p>
